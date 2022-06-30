@@ -72,4 +72,4 @@ If you find this code useful, please cite our paper.
 
 
 ## Contact
-If you have any question, feel free to report a issue in this repo or directly contact the author _Xiaohao XU_(xxh11102019@outlook.com).
+If you have any question, feel free to report a issue in this repo or directly contact the author _Xiaohao XU_(xxh11102019 [AT] outlook.com).
