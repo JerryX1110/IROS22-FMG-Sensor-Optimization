@@ -1,7 +1,7 @@
 # [Official] '[Optimization of Forcemyography Sensor Placement for Arm Movement Recognition]()'
 
-<!-- ![teaser](https://github.com/pipixin321/FMG-based-Action-Recognition/blob/main/fig/teaser_new.png) -->
-<img src="https://github.com/pipixin321/FMG-based-Action-Recognition/blob/main/fig/teaser_new.png" width="150"> <img src="https://github.com/pipixin321/FMG-based-Action-Recognition/blob/main/fig/FMG-GCN-new.png" width="500"/>
+<!-- ![teaser](https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/teaser_new.png) -->
+<img src="https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/teaser_new.png" width="150"> <img src="https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/FMG-GCN-new.png" width="500"/>
 >**Optimization of Forcemyography Sensor Placement for Arm Movement Recognition**<br>
 >Xiaohao Xu, Zihao Du, Huaxin Zhang, Ruichao Zhang,
 Zihan Hong, Qin Huang, and Bin Han∗, Member, IEEE
@@ -68,8 +68,29 @@ python result_visualize.py
 
 
 ## Citation
-If you find this code useful, please cite our paper.
+If you find this work is useful for your research, please consider citing:
 
+ ```latex
+@inproceedings{xu2022optimization,
+  title={Optimization of Forcemyography Sensor Placement for Arm Movement Recognition},
+  author={Xu, Xiaohao and Du, Zihao and Zhang, Huaxin and Zhang, Ruichao and Hong, Zihan and Huang, Qin and Han, bin}, 
+  booktitle={Proceedings of the 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS22)},
+  year={2022}
+}
+```
+
+if you find the implementations helpful, please consider to cite:
+
+ ```latex
+@misc{xu2022optim,
+  title={FMG-Optimiz-REPO},
+  author={Xiaohao Xu and Huaxin Zhang},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished={\url{https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/}},
+  year={2022}
+}
+```
 
 ## Contact
 If you have any question, feel free to report a issue in this repo or directly contact the author _Xiaohao XU_(xxh11102019 [AT] outlook.com).
