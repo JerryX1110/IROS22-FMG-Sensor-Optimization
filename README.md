@@ -1,7 +1,8 @@
 # [Official] '[Optimization of Forcemyography Sensor Placement for Arm Movement Recognition]()'
 
-<!-- ![teaser](https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/teaser_new.png) -->
-<img src="https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/teaser_new.png" width="150"> <img src="https://github.com/JerryX1110/IROS22-FMG-Sensor-Optimization/blob/main/fig/FMG-GCN-new.png" width="500"/>
+![image](https://user-images.githubusercontent.com/65257938/178545143-3e3919b1-9b67-4ed8-8288-dc1c6e4a39e9.png)
+
+
 >**Optimization of Forcemyography Sensor Placement for Arm Movement Recognition**<br>
 >Xiaohao Xu, Zihao Du, Huaxin Zhang, Ruichao Zhang,
 Zihan Hong, Qin Huang, and Bin Han∗, Member, IEEE
