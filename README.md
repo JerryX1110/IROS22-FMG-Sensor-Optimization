@@ -1,7 +1,6 @@
 # [Official] Optimization of Forcemyography Sensor Placement for Arm Movement Recognition, [Oral Presentation Video](https://youtu.be/xDlr6OBpEeI)
 
-![image](https://user-images.githubusercontent.com/65257938/178545143-3e3919b1-9b67-4ed8-8288-dc1c6e4a39e9.png)
-
+<img src="https://user-images.githubusercontent.com/65257938/178545143-3e3919b1-9b67-4ed8-8288-dc1c6e4a39e9.png" width="200px">
 
 >**Optimization of Forcemyography Sensor Placement for Arm Movement Recognition**<br>
 >Xiaohao Xu, Zihao Du, Huaxin Zhang, Ruichao Zhang,
